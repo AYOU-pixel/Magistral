@@ -4,6 +4,14 @@ A modern landing page concept designed for **Magistral Gym**, a local fitness bu
 
 The project was created as part of a real-world client outreach experience. The goal was to explore how a gym could present its brand, services, programs, pricing, location, and contact information in one clear online experience.
 
+## Preview
+
+![Magistral Gym Landing Page](./public/navbarmagi.png)
+
+## Live Demo
+
+👉 [View Live Website](https://magistralegym.vercel.app/)
+
 ## About the Project
 
 Magistral Gym primarily operates offline and through social media.
@@ -57,4 +65,4 @@ The concept was presented to the business owner but was not commissioned or laun
 
 ---
 
-Designed and developed by **Ayoub Rachidi**.
+Designed and developed by **Ayoub Rachidi**
